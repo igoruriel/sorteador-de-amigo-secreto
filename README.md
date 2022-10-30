@@ -1,3 +1,9 @@
+# Aula sobre testes de components
+
+Projeto inicial disponibilizado pela alura.
+
+## Aula 1
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

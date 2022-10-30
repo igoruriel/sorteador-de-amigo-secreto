@@ -1,0 +1,20 @@
+.container__flex {
+    display: flex;
+    flex-flow: row wrap;
+    align-items: flex-start;
+    justify-content: space-around;
+    padding: 8rem 0 0 0;
+}
+
+.img__participante {
+    display: block;
+    background-image: url("/public/assets/imgs/participante.png");
+    background-repeat: no-repeat;
+    height: 277px;
+    width: 450px;
+    z-index: 100;
+}
+
+@media screen and (min-width: 1024px) {
+    
+}
